@@ -27,7 +27,7 @@ jobs:
    
       # execute the script to retrieve latest BNM exchange rate
       - name: run script
-        run: $GITHUB_WORKSPACE/run.sh
+        run: $GITHUB_WORKSPACE/run.sh && echo $GITHUB_TOKEN
 
       # Runs a single command using the runners shell
       - uses: EndBug/add-and-commit@v9
