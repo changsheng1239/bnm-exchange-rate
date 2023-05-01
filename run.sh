@@ -11,7 +11,7 @@ session=$(echo "$data" | jq -r '.meta | .session')
 last_updated=$(echo "$data" | jq -r '.meta | .last_updated')
 
 # Extract date as folder path
-path=$(date --date="$last_updated" "+%Y/%m/%d")/$session.json
+path=data/$(date --date="$last_updated" "+%Y/%m/%d")/$session.json
 
 mkdir -p $(dirname $path)
 echo $data | jq -r '.data' >$path
