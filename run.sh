@@ -9,9 +9,11 @@ data=$(curl -s -H "$header" -A "$useragent" "$url")
 
 session=$(echo "$data" | jq -r '.meta | .session')
 last_updated=$(echo "$data" | jq -r '.meta | .last_updated')
+parsed_date=$(date --date="$last_updated" "+%Y/%m/%d")
 
-# Extract date as folder path
-path=data/$(date --date="$last_updated" "+%Y/%m/%d")/$session.json
+path=data/$parsed_date/$session.json
 
 mkdir -p $(dirname $path)
 echo $data | jq -r '.data' >$path
+
+echo "Data saved to $path"
