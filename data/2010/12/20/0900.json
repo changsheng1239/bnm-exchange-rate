@@ -1,0 +1,272 @@
+[
+    {
+        "rate": {
+            "buying_rate": 3.145,
+            "date": "2010-12-20",
+            "selling_rate": 3.148,
+            "middle_rate": 3.1465
+        },
+        "currency_code": "USD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 4.8688,
+            "date": "2010-12-20",
+            "selling_rate": 4.874,
+            "middle_rate": 4.8714
+        },
+        "currency_code": "GBP",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 4.1288,
+            "date": "2010-12-20",
+            "selling_rate": 4.133,
+            "middle_rate": 4.1309
+        },
+        "currency_code": "EUR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.7409,
+            "date": "2010-12-20",
+            "selling_rate": 3.7449,
+            "middle_rate": 3.7429
+        },
+        "currency_code": "JPY",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 3.2383,
+            "date": "2010-12-20",
+            "selling_rate": 3.2427,
+            "middle_rate": 3.2405
+        },
+        "currency_code": "CHF",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.1054,
+            "date": "2010-12-20",
+            "selling_rate": 3.1086,
+            "middle_rate": 3.107
+        },
+        "currency_code": "AUD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.1046,
+            "date": "2010-12-20",
+            "selling_rate": 3.1091,
+            "middle_rate": 3.1069
+        },
+        "currency_code": "CAD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.3786,
+            "date": "2010-12-20",
+            "selling_rate": 2.3827,
+            "middle_rate": 2.3806
+        },
+        "currency_code": "SGD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 40.4325,
+            "date": "2010-12-20",
+            "selling_rate": 40.4763,
+            "middle_rate": 40.4544
+        },
+        "currency_code": "HKD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 10.4139,
+            "date": "2010-12-20",
+            "selling_rate": 10.4342,
+            "middle_rate": 10.4241
+        },
+        "currency_code": "THB",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 7.0993,
+            "date": "2010-12-20",
+            "selling_rate": 7.1238,
+            "middle_rate": 7.1116
+        },
+        "currency_code": "PHP",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 10.5502,
+            "date": "2010-12-20",
+            "selling_rate": 10.5638,
+            "middle_rate": 10.557
+        },
+        "currency_code": "TWD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.2694,
+            "date": "2010-12-20",
+            "selling_rate": 0.2699,
+            "middle_rate": 0.2697
+        },
+        "currency_code": "KRW",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0348,
+            "date": "2010-12-20",
+            "selling_rate": 0.0349,
+            "middle_rate": 0.0348
+        },
+        "currency_code": "IDR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 83.86,
+            "date": "2010-12-20",
+            "selling_rate": 83.9444,
+            "middle_rate": 83.9022
+        },
+        "currency_code": "SAR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2010-12-20",
+            "selling_rate": 0.0,
+            "middle_rate": 4.8321
+        },
+        "currency_code": "SDR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.4722,
+            "date": "2010-12-20",
+            "selling_rate": 0.473,
+            "middle_rate": 0.4726
+        },
+        "currency_code": "CNY",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.3978,
+            "date": "2010-12-20",
+            "selling_rate": 2.4012,
+            "middle_rate": 2.3995
+        },
+        "currency_code": "BND",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0161,
+            "date": "2010-12-20",
+            "selling_rate": 0.0161,
+            "middle_rate": 0.0161
+        },
+        "currency_code": "VND",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0769,
+            "date": "2010-12-20",
+            "selling_rate": 0.0778,
+            "middle_rate": 0.0774
+        },
+        "currency_code": "KHR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 2.3122,
+            "date": "2010-12-20",
+            "selling_rate": 2.3176,
+            "middle_rate": 2.3149
+        },
+        "currency_code": "NZD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 48.6842,
+            "date": "2010-12-20",
+            "selling_rate": 49.1108,
+            "middle_rate": 48.8975
+        },
+        "currency_code": "MMK",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 6.9657,
+            "date": "2010-12-20",
+            "selling_rate": 6.977,
+            "middle_rate": 6.9713
+        },
+        "currency_code": "INR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 85.6225,
+            "date": "2010-12-20",
+            "selling_rate": 85.7112,
+            "middle_rate": 85.6668
+        },
+        "currency_code": "AED",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 3.6646,
+            "date": "2010-12-20",
+            "selling_rate": 3.6699,
+            "middle_rate": 3.6673
+        },
+        "currency_code": "PKR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 4.3343,
+            "date": "2010-12-20",
+            "selling_rate": 4.3397,
+            "middle_rate": 4.337
+        },
+        "currency_code": "NPR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.5424,
+            "date": "2010-12-20",
+            "selling_rate": 0.5432,
+            "middle_rate": 0.5428
+        },
+        "currency_code": "EGP",
+        "unit": 1
+    }
+]

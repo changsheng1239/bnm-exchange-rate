@@ -1,0 +1,272 @@
+[
+    {
+        "rate": {
+            "buying_rate": 4.005,
+            "date": "2016-06-24",
+            "selling_rate": 4.02,
+            "middle_rate": 4.0125
+        },
+        "currency_code": "USD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 5.8113,
+            "date": "2016-06-24",
+            "selling_rate": 5.8366,
+            "middle_rate": 5.8239
+        },
+        "currency_code": "GBP",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 4.5152,
+            "date": "2016-06-24",
+            "selling_rate": 4.5342,
+            "middle_rate": 4.5247
+        },
+        "currency_code": "EUR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.8146,
+            "date": "2016-06-24",
+            "selling_rate": 3.83,
+            "middle_rate": 3.8223
+        },
+        "currency_code": "JPY",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 4.1615,
+            "date": "2016-06-24",
+            "selling_rate": 4.184,
+            "middle_rate": 4.1727
+        },
+        "currency_code": "CHF",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.019,
+            "date": "2016-06-24",
+            "selling_rate": 3.0335,
+            "middle_rate": 3.0262
+        },
+        "currency_code": "AUD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.1179,
+            "date": "2016-06-24",
+            "selling_rate": 3.1306,
+            "middle_rate": 3.1243
+        },
+        "currency_code": "CAD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.9792,
+            "date": "2016-06-24",
+            "selling_rate": 2.9924,
+            "middle_rate": 2.9858
+        },
+        "currency_code": "SGD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 51.6248,
+            "date": "2016-06-24",
+            "selling_rate": 51.8268,
+            "middle_rate": 51.7258
+        },
+        "currency_code": "HKD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 11.352,
+            "date": "2016-06-24",
+            "selling_rate": 11.401,
+            "middle_rate": 11.3765
+        },
+        "currency_code": "THB",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 8.5963,
+            "date": "2016-06-24",
+            "selling_rate": 8.6377,
+            "middle_rate": 8.617
+        },
+        "currency_code": "PHP",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 12.5078,
+            "date": "2016-06-24",
+            "selling_rate": 12.5704,
+            "middle_rate": 12.5391
+        },
+        "currency_code": "TWD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.3475,
+            "date": "2016-06-24",
+            "selling_rate": 0.349,
+            "middle_rate": 0.3483
+        },
+        "currency_code": "KRW",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0302,
+            "date": "2016-06-24",
+            "selling_rate": 0.0303,
+            "middle_rate": 0.0303
+        },
+        "currency_code": "IDR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 106.7915,
+            "date": "2016-06-24",
+            "selling_rate": 107.2,
+            "middle_rate": 106.9957
+        },
+        "currency_code": "SAR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2016-06-24",
+            "selling_rate": 0.0,
+            "middle_rate": 5.7051
+        },
+        "currency_code": "SDR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.6086,
+            "date": "2016-06-24",
+            "selling_rate": 0.6115,
+            "middle_rate": 0.6101
+        },
+        "currency_code": "CNY",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.9784,
+            "date": "2016-06-24",
+            "selling_rate": 2.9917,
+            "middle_rate": 2.985
+        },
+        "currency_code": "BND",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.018,
+            "date": "2016-06-24",
+            "selling_rate": 0.018,
+            "middle_rate": 0.018
+        },
+        "currency_code": "VND",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0976,
+            "date": "2016-06-24",
+            "selling_rate": 0.099,
+            "middle_rate": 0.0983
+        },
+        "currency_code": "KHR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 2.8856,
+            "date": "2016-06-24",
+            "selling_rate": 2.8996,
+            "middle_rate": 2.8926
+        },
+        "currency_code": "NZD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.3391,
+            "date": "2016-06-24",
+            "selling_rate": 0.3404,
+            "middle_rate": 0.3397
+        },
+        "currency_code": "MMK",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 5.9546,
+            "date": "2016-06-24",
+            "selling_rate": 5.9787,
+            "middle_rate": 5.9667
+        },
+        "currency_code": "INR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 109.0389,
+            "date": "2016-06-24",
+            "selling_rate": 109.4503,
+            "middle_rate": 109.2446
+        },
+        "currency_code": "AED",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 3.8216,
+            "date": "2016-06-24",
+            "selling_rate": 3.8395,
+            "middle_rate": 3.8306
+        },
+        "currency_code": "PKR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 3.718,
+            "date": "2016-06-24",
+            "selling_rate": 3.7333,
+            "middle_rate": 3.7256
+        },
+        "currency_code": "NPR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.451,
+            "date": "2016-06-24",
+            "selling_rate": 0.4527,
+            "middle_rate": 0.4519
+        },
+        "currency_code": "EGP",
+        "unit": 1
+    }
+]

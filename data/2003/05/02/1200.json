@@ -1,0 +1,272 @@
+[
+    {
+        "rate": {
+            "buying_rate": 3.8,
+            "date": "2003-05-02",
+            "selling_rate": 3.8,
+            "middle_rate": 3.8
+        },
+        "currency_code": "USD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 6.1162,
+            "date": "2003-05-02",
+            "selling_rate": 6.12,
+            "middle_rate": 6.1178
+        },
+        "currency_code": "GBP",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 4.2699,
+            "date": "2003-05-02",
+            "selling_rate": 4.2717,
+            "middle_rate": 4.2706
+        },
+        "currency_code": "EUR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.2005,
+            "date": "2003-05-02",
+            "selling_rate": 3.2019,
+            "middle_rate": 3.2012
+        },
+        "currency_code": "JPY",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 2.8249,
+            "date": "2003-05-02",
+            "selling_rate": 2.8265,
+            "middle_rate": 2.8256
+        },
+        "currency_code": "CHF",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 2.1037
+        },
+        "currency_code": "AUD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 2.6767
+        },
+        "currency_code": "CAD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.1464,
+            "date": "2003-05-02",
+            "selling_rate": 2.1473,
+            "middle_rate": 2.1469
+        },
+        "currency_code": "SGD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 48.7211,
+            "date": "2003-05-02",
+            "selling_rate": 48.7258,
+            "middle_rate": 48.7233
+        },
+        "currency_code": "HKD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 8.8785,
+            "date": "2003-05-02",
+            "selling_rate": 8.8847,
+            "middle_rate": 8.8816
+        },
+        "currency_code": "THB",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 7.2243,
+            "date": "2003-05-02",
+            "selling_rate": 7.2381,
+            "middle_rate": 7.2312
+        },
+        "currency_code": "PHP",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 10.9133
+        },
+        "currency_code": "TWD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 0.313
+        },
+        "currency_code": "KRW",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0439,
+            "date": "2003-05-02",
+            "selling_rate": 0.0439,
+            "middle_rate": 0.0439
+        },
+        "currency_code": "IDR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 101.3274,
+            "date": "2003-05-02",
+            "selling_rate": 101.3377,
+            "middle_rate": 101.3279
+        },
+        "currency_code": "SAR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 5.2742
+        },
+        "currency_code": "SDR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 0.0
+        },
+        "currency_code": "CNY",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.1464,
+            "date": "2003-05-02",
+            "selling_rate": 2.1473,
+            "middle_rate": 2.1468
+        },
+        "currency_code": "BND",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0246,
+            "date": "2003-05-02",
+            "selling_rate": 0.0246,
+            "middle_rate": 0.0246
+        },
+        "currency_code": "VND",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0979,
+            "date": "2003-05-02",
+            "selling_rate": 0.0991,
+            "middle_rate": 0.0985
+        },
+        "currency_code": "KHR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 0.0
+        },
+        "currency_code": "NZD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 0.0
+        },
+        "currency_code": "MMK",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 0.0
+        },
+        "currency_code": "INR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 0.0
+        },
+        "currency_code": "AED",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 0.0
+        },
+        "currency_code": "PKR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 0.0
+        },
+        "currency_code": "NPR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2003-05-02",
+            "selling_rate": 0.0,
+            "middle_rate": 0.0
+        },
+        "currency_code": "EGP",
+        "unit": 1
+    }
+]

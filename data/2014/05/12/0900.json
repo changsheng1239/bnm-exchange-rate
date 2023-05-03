@@ -1,0 +1,272 @@
+[
+    {
+        "rate": {
+            "buying_rate": 3.233,
+            "date": "2014-05-12",
+            "selling_rate": 3.236,
+            "middle_rate": 3.2345
+        },
+        "currency_code": "USD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 5.4466,
+            "date": "2014-05-12",
+            "selling_rate": 5.454,
+            "middle_rate": 5.4503
+        },
+        "currency_code": "GBP",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 4.4457,
+            "date": "2014-05-12",
+            "selling_rate": 4.4501,
+            "middle_rate": 4.4479
+        },
+        "currency_code": "EUR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.1687,
+            "date": "2014-05-12",
+            "selling_rate": 3.1719,
+            "middle_rate": 3.1703
+        },
+        "currency_code": "JPY",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 3.6412,
+            "date": "2014-05-12",
+            "selling_rate": 3.6462,
+            "middle_rate": 3.6437
+        },
+        "currency_code": "CHF",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.0254,
+            "date": "2014-05-12",
+            "selling_rate": 3.0286,
+            "middle_rate": 3.027
+        },
+        "currency_code": "AUD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.9647,
+            "date": "2014-05-12",
+            "selling_rate": 2.9694,
+            "middle_rate": 2.967
+        },
+        "currency_code": "CAD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.5847,
+            "date": "2014-05-12",
+            "selling_rate": 2.5888,
+            "middle_rate": 2.5868
+        },
+        "currency_code": "SGD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 41.707,
+            "date": "2014-05-12",
+            "selling_rate": 41.7462,
+            "middle_rate": 41.7266
+        },
+        "currency_code": "HKD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 9.9141,
+            "date": "2014-05-12",
+            "selling_rate": 9.9294,
+            "middle_rate": 9.9218
+        },
+        "currency_code": "THB",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 7.3999,
+            "date": "2014-05-12",
+            "selling_rate": 7.4203,
+            "middle_rate": 7.4101
+        },
+        "currency_code": "PHP",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 10.7053,
+            "date": "2014-05-12",
+            "selling_rate": 10.733,
+            "middle_rate": 10.7191
+        },
+        "currency_code": "TWD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.3152,
+            "date": "2014-05-12",
+            "selling_rate": 0.3156,
+            "middle_rate": 0.3154
+        },
+        "currency_code": "KRW",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.028,
+            "date": "2014-05-12",
+            "selling_rate": 0.0281,
+            "middle_rate": 0.0281
+        },
+        "currency_code": "IDR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 86.1949,
+            "date": "2014-05-12",
+            "selling_rate": 86.2864,
+            "middle_rate": 86.2407
+        },
+        "currency_code": "SAR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2014-05-12",
+            "selling_rate": 0.0,
+            "middle_rate": 5.0143
+        },
+        "currency_code": "SDR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.5191,
+            "date": "2014-05-12",
+            "selling_rate": 0.5196,
+            "middle_rate": 0.5194
+        },
+        "currency_code": "CNY",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.5845,
+            "date": "2014-05-12",
+            "selling_rate": 2.589,
+            "middle_rate": 2.5868
+        },
+        "currency_code": "BND",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0153,
+            "date": "2014-05-12",
+            "selling_rate": 0.0154,
+            "middle_rate": 0.0153
+        },
+        "currency_code": "VND",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0809,
+            "date": "2014-05-12",
+            "selling_rate": 0.0819,
+            "middle_rate": 0.0814
+        },
+        "currency_code": "KHR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 2.7868,
+            "date": "2014-05-12",
+            "selling_rate": 2.7914,
+            "middle_rate": 2.7891
+        },
+        "currency_code": "NZD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.3375,
+            "date": "2014-05-12",
+            "selling_rate": 0.3378,
+            "middle_rate": 0.3376
+        },
+        "currency_code": "MMK",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 5.4,
+            "date": "2014-05-12",
+            "selling_rate": 5.4069,
+            "middle_rate": 5.4034
+        },
+        "currency_code": "INR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 88.0207,
+            "date": "2014-05-12",
+            "selling_rate": 88.1144,
+            "middle_rate": 88.0675
+        },
+        "currency_code": "AED",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 3.2772,
+            "date": "2014-05-12",
+            "selling_rate": 3.2869,
+            "middle_rate": 3.2821
+        },
+        "currency_code": "PKR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 3.3478,
+            "date": "2014-05-12",
+            "selling_rate": 3.386,
+            "middle_rate": 3.3669
+        },
+        "currency_code": "NPR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.4589,
+            "date": "2014-05-12",
+            "selling_rate": 0.4593,
+            "middle_rate": 0.4591
+        },
+        "currency_code": "EGP",
+        "unit": 1
+    }
+]

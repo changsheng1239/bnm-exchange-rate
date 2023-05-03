@@ -1,0 +1,272 @@
+[
+    {
+        "rate": {
+            "buying_rate": 3.0085,
+            "date": "2012-03-08",
+            "selling_rate": 3.0115,
+            "middle_rate": 3.01
+        },
+        "currency_code": "USD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 4.745,
+            "date": "2012-03-08",
+            "selling_rate": 4.7506,
+            "middle_rate": 4.7478
+        },
+        "currency_code": "GBP",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.9628,
+            "date": "2012-03-08",
+            "selling_rate": 3.9674,
+            "middle_rate": 3.9651
+        },
+        "currency_code": "EUR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.6905,
+            "date": "2012-03-08",
+            "selling_rate": 3.6946,
+            "middle_rate": 3.6926
+        },
+        "currency_code": "JPY",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 3.2858,
+            "date": "2012-03-08",
+            "selling_rate": 3.2895,
+            "middle_rate": 3.2876
+        },
+        "currency_code": "CHF",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.1965,
+            "date": "2012-03-08",
+            "selling_rate": 3.2006,
+            "middle_rate": 3.1986
+        },
+        "currency_code": "AUD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.0221,
+            "date": "2012-03-08",
+            "selling_rate": 3.0254,
+            "middle_rate": 3.0238
+        },
+        "currency_code": "CAD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.3984,
+            "date": "2012-03-08",
+            "selling_rate": 2.4011,
+            "middle_rate": 2.3997
+        },
+        "currency_code": "SGD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 38.7683,
+            "date": "2012-03-08",
+            "selling_rate": 38.812,
+            "middle_rate": 38.7902
+        },
+        "currency_code": "HKD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 9.8317,
+            "date": "2012-03-08",
+            "selling_rate": 9.8576,
+            "middle_rate": 9.8447
+        },
+        "currency_code": "THB",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 7.0639,
+            "date": "2012-03-08",
+            "selling_rate": 7.0742,
+            "middle_rate": 7.069
+        },
+        "currency_code": "PHP",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 10.189,
+            "date": "2012-03-08",
+            "selling_rate": 10.2067,
+            "middle_rate": 10.1979
+        },
+        "currency_code": "TWD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.2691,
+            "date": "2012-03-08",
+            "selling_rate": 0.2695,
+            "middle_rate": 0.2693
+        },
+        "currency_code": "KRW",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0329,
+            "date": "2012-03-08",
+            "selling_rate": 0.033,
+            "middle_rate": 0.033
+        },
+        "currency_code": "IDR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 80.2138,
+            "date": "2012-03-08",
+            "selling_rate": 80.3002,
+            "middle_rate": 80.257
+        },
+        "currency_code": "SAR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2012-03-08",
+            "selling_rate": 0.0,
+            "middle_rate": 4.6357
+        },
+        "currency_code": "SDR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.4763,
+            "date": "2012-03-08",
+            "selling_rate": 0.4769,
+            "middle_rate": 0.4766
+        },
+        "currency_code": "CNY",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.3982,
+            "date": "2012-03-08",
+            "selling_rate": 2.4011,
+            "middle_rate": 2.3996
+        },
+        "currency_code": "BND",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0144,
+            "date": "2012-03-08",
+            "selling_rate": 0.0145,
+            "middle_rate": 0.0144
+        },
+        "currency_code": "VND",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0743,
+            "date": "2012-03-08",
+            "selling_rate": 0.0752,
+            "middle_rate": 0.0747
+        },
+        "currency_code": "KHR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 2.4733,
+            "date": "2012-03-08",
+            "selling_rate": 2.4788,
+            "middle_rate": 2.476
+        },
+        "currency_code": "NZD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 46.5712,
+            "date": "2012-03-08",
+            "selling_rate": 46.9813,
+            "middle_rate": 46.7762
+        },
+        "currency_code": "MMK",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 5.9847,
+            "date": "2012-03-08",
+            "selling_rate": 5.9918,
+            "middle_rate": 5.9883
+        },
+        "currency_code": "INR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 81.9063,
+            "date": "2012-03-08",
+            "selling_rate": 81.9924,
+            "middle_rate": 81.9494
+        },
+        "currency_code": "AED",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 3.3141,
+            "date": "2012-03-08",
+            "selling_rate": 3.3192,
+            "middle_rate": 3.3166
+        },
+        "currency_code": "PKR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 3.7165,
+            "date": "2012-03-08",
+            "selling_rate": 3.7667,
+            "middle_rate": 3.7416
+        },
+        "currency_code": "NPR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.4987,
+            "date": "2012-03-08",
+            "selling_rate": 0.4993,
+            "middle_rate": 0.499
+        },
+        "currency_code": "EGP",
+        "unit": 1
+    }
+]

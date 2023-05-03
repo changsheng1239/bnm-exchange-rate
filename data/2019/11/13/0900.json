@@ -1,0 +1,272 @@
+[
+    {
+        "rate": {
+            "buying_rate": 4.15,
+            "date": "2019-11-13",
+            "selling_rate": 4.153,
+            "middle_rate": 4.1515
+        },
+        "currency_code": "USD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 5.3323,
+            "date": "2019-11-13",
+            "selling_rate": 5.337,
+            "middle_rate": 5.3347
+        },
+        "currency_code": "GBP",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 4.5683,
+            "date": "2019-11-13",
+            "selling_rate": 4.572,
+            "middle_rate": 4.5702
+        },
+        "currency_code": "EUR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.8098,
+            "date": "2019-11-13",
+            "selling_rate": 3.8136,
+            "middle_rate": 3.8117
+        },
+        "currency_code": "JPY",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 4.1797,
+            "date": "2019-11-13",
+            "selling_rate": 4.1861,
+            "middle_rate": 4.1829
+        },
+        "currency_code": "CHF",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.8353,
+            "date": "2019-11-13",
+            "selling_rate": 2.8382,
+            "middle_rate": 2.8367
+        },
+        "currency_code": "AUD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.1335,
+            "date": "2019-11-13",
+            "selling_rate": 3.1365,
+            "middle_rate": 3.135
+        },
+        "currency_code": "CAD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.045,
+            "date": "2019-11-13",
+            "selling_rate": 3.049,
+            "middle_rate": 3.047
+        },
+        "currency_code": "SGD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 53.0108,
+            "date": "2019-11-13",
+            "selling_rate": 53.0511,
+            "middle_rate": 53.0309
+        },
+        "currency_code": "HKD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 13.6761,
+            "date": "2019-11-13",
+            "selling_rate": 13.695,
+            "middle_rate": 13.6855
+        },
+        "currency_code": "THB",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 8.1629,
+            "date": "2019-11-13",
+            "selling_rate": 8.1752,
+            "middle_rate": 8.169
+        },
+        "currency_code": "PHP",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 13.6133,
+            "date": "2019-11-13",
+            "selling_rate": 13.6365,
+            "middle_rate": 13.6249
+        },
+        "currency_code": "TWD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.3555,
+            "date": "2019-11-13",
+            "selling_rate": 0.3558,
+            "middle_rate": 0.3556
+        },
+        "currency_code": "KRW",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0295,
+            "date": "2019-11-13",
+            "selling_rate": 0.0296,
+            "middle_rate": 0.0295
+        },
+        "currency_code": "IDR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 110.6578,
+            "date": "2019-11-13",
+            "selling_rate": 110.7437,
+            "middle_rate": 110.7008
+        },
+        "currency_code": "SAR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2019-11-13",
+            "selling_rate": 0.0,
+            "middle_rate": 5.7
+        },
+        "currency_code": "SDR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.5921,
+            "date": "2019-11-13",
+            "selling_rate": 0.5927,
+            "middle_rate": 0.5924
+        },
+        "currency_code": "CNY",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.045,
+            "date": "2019-11-13",
+            "selling_rate": 3.049,
+            "middle_rate": 3.047
+        },
+        "currency_code": "BND",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0179,
+            "date": "2019-11-13",
+            "selling_rate": 0.0179,
+            "middle_rate": 0.0179
+        },
+        "currency_code": "VND",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.1015,
+            "date": "2019-11-13",
+            "selling_rate": 0.1027,
+            "middle_rate": 0.1021
+        },
+        "currency_code": "KHR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 2.6282,
+            "date": "2019-11-13",
+            "selling_rate": 2.6318,
+            "middle_rate": 2.63
+        },
+        "currency_code": "NZD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.2739,
+            "date": "2019-11-13",
+            "selling_rate": 0.2741,
+            "middle_rate": 0.274
+        },
+        "currency_code": "MMK",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 5.7799,
+            "date": "2019-11-13",
+            "selling_rate": 5.7857,
+            "middle_rate": 5.7828
+        },
+        "currency_code": "INR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 112.9713,
+            "date": "2019-11-13",
+            "selling_rate": 113.0745,
+            "middle_rate": 113.0229
+        },
+        "currency_code": "AED",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 2.6649,
+            "date": "2019-11-13",
+            "selling_rate": 2.6806,
+            "middle_rate": 2.6727
+        },
+        "currency_code": "PKR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 3.6295,
+            "date": "2019-11-13",
+            "selling_rate": 3.6325,
+            "middle_rate": 3.631
+        },
+        "currency_code": "NPR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.2565,
+            "date": "2019-11-13",
+            "selling_rate": 0.2583,
+            "middle_rate": 0.2574
+        },
+        "currency_code": "EGP",
+        "unit": 1
+    }
+]

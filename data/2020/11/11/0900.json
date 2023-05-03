@@ -1,0 +1,272 @@
+[
+    {
+        "rate": {
+            "buying_rate": 4.116,
+            "date": "2020-11-11",
+            "selling_rate": 4.125,
+            "middle_rate": 4.1205
+        },
+        "currency_code": "USD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 5.4566,
+            "date": "2020-11-11",
+            "selling_rate": 5.4693,
+            "middle_rate": 5.463
+        },
+        "currency_code": "GBP",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 4.8635,
+            "date": "2020-11-11",
+            "selling_rate": 4.8758,
+            "middle_rate": 4.8696
+        },
+        "currency_code": "EUR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.9133,
+            "date": "2020-11-11",
+            "selling_rate": 3.923,
+            "middle_rate": 3.9181
+        },
+        "currency_code": "JPY",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 4.4964,
+            "date": "2020-11-11",
+            "selling_rate": 4.5112,
+            "middle_rate": 4.5038
+        },
+        "currency_code": "CHF",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 2.9952,
+            "date": "2020-11-11",
+            "selling_rate": 3.0022,
+            "middle_rate": 2.9987
+        },
+        "currency_code": "AUD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.1557,
+            "date": "2020-11-11",
+            "selling_rate": 3.1636,
+            "middle_rate": 3.1597
+        },
+        "currency_code": "CAD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.0536,
+            "date": "2020-11-11",
+            "selling_rate": 3.061,
+            "middle_rate": 3.0573
+        },
+        "currency_code": "SGD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 53.0823,
+            "date": "2020-11-11",
+            "selling_rate": 53.199,
+            "middle_rate": 53.1407
+        },
+        "currency_code": "HKD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 13.5707,
+            "date": "2020-11-11",
+            "selling_rate": 13.6094,
+            "middle_rate": 13.59
+        },
+        "currency_code": "THB",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 8.5124,
+            "date": "2020-11-11",
+            "selling_rate": 8.5416,
+            "middle_rate": 8.527
+        },
+        "currency_code": "PHP",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 14.3976,
+            "date": "2020-11-11",
+            "selling_rate": 14.4443,
+            "middle_rate": 14.421
+        },
+        "currency_code": "TWD",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.3693,
+            "date": "2020-11-11",
+            "selling_rate": 0.3701,
+            "middle_rate": 0.3697
+        },
+        "currency_code": "KRW",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0293,
+            "date": "2020-11-11",
+            "selling_rate": 0.0294,
+            "middle_rate": 0.0293
+        },
+        "currency_code": "IDR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 109.7424,
+            "date": "2020-11-11",
+            "selling_rate": 109.9883,
+            "middle_rate": 109.8654
+        },
+        "currency_code": "SAR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0,
+            "date": "2020-11-11",
+            "selling_rate": 0.0,
+            "middle_rate": 5.8512
+        },
+        "currency_code": "SDR",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.6221,
+            "date": "2020-11-11",
+            "selling_rate": 0.6236,
+            "middle_rate": 0.6229
+        },
+        "currency_code": "CNY",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 3.0536,
+            "date": "2020-11-11",
+            "selling_rate": 3.061,
+            "middle_rate": 3.0573
+        },
+        "currency_code": "BND",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0178,
+            "date": "2020-11-11",
+            "selling_rate": 0.0178,
+            "middle_rate": 0.0178
+        },
+        "currency_code": "VND",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.0999,
+            "date": "2020-11-11",
+            "selling_rate": 0.1012,
+            "middle_rate": 0.1006
+        },
+        "currency_code": "KHR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 2.8075,
+            "date": "2020-11-11",
+            "selling_rate": 2.8153,
+            "middle_rate": 2.8114
+        },
+        "currency_code": "NZD",
+        "unit": 1
+    },
+    {
+        "rate": {
+            "buying_rate": 0.3183,
+            "date": "2020-11-11",
+            "selling_rate": 0.319,
+            "middle_rate": 0.3187
+        },
+        "currency_code": "MMK",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 5.5397,
+            "date": "2020-11-11",
+            "selling_rate": 5.5533,
+            "middle_rate": 5.5465
+        },
+        "currency_code": "INR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 112.0457,
+            "date": "2020-11-11",
+            "selling_rate": 112.3121,
+            "middle_rate": 112.1789
+        },
+        "currency_code": "AED",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 2.5693,
+            "date": "2020-11-11",
+            "selling_rate": 2.6025,
+            "middle_rate": 2.5859
+        },
+        "currency_code": "PKR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 3.4676,
+            "date": "2020-11-11",
+            "selling_rate": 3.4754,
+            "middle_rate": 3.4715
+        },
+        "currency_code": "NPR",
+        "unit": "100"
+    },
+    {
+        "rate": {
+            "buying_rate": 0.2622,
+            "date": "2020-11-11",
+            "selling_rate": 0.2644,
+            "middle_rate": 0.2633
+        },
+        "currency_code": "EGP",
+        "unit": 1
+    }
+]
