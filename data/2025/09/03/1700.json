@@ -70,16 +70,6 @@
     }
   },
   {
-    "currency_code": "SDR",
-    "unit": 1,
-    "rate": {
-      "date": "2025-09-03",
-      "buying_rate": null,
-      "selling_rate": null,
-      "middle_rate": 5.7742000000000004
-    }
-  },
-  {
     "currency_code": "VND",
     "unit": 100,
     "rate": {
@@ -127,6 +117,16 @@
       "buying_rate": 3.2797999999999998,
       "selling_rate": 3.2848999999999999,
       "middle_rate": 3.2824
+    }
+  },
+  {
+    "currency_code": "SDR",
+    "unit": 1,
+    "rate": {
+      "date": "2025-09-03",
+      "buying_rate": null,
+      "selling_rate": null,
+      "middle_rate": 5.7742000000000004
     }
   },
   {
