@@ -1,0 +1,272 @@
+[
+  {
+    "currency_code": "JPY",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 2.5261,
+      "selling_rate": 2.5293999999999999,
+      "middle_rate": 2.5278
+    }
+  },
+  {
+    "currency_code": "AED",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 109.8467,
+      "selling_rate": 110.0278,
+      "middle_rate": 109.93729999999999
+    }
+  },
+  {
+    "currency_code": "AUD",
+    "unit": 1,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 2.7631999999999999,
+      "selling_rate": 2.7673999999999999,
+      "middle_rate": 2.7652999999999999
+    }
+  },
+  {
+    "currency_code": "BND",
+    "unit": 1,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 3.1238000000000001,
+      "selling_rate": 3.1295999999999999,
+      "middle_rate": 3.1267
+    }
+  },
+  {
+    "currency_code": "CAD",
+    "unit": 1,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 2.8957999999999999,
+      "selling_rate": 2.9003999999999999,
+      "middle_rate": 2.8980999999999999
+    }
+  },
+  {
+    "currency_code": "CHF",
+    "unit": 1,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 5.0500999999999996,
+      "selling_rate": 5.0589000000000004,
+      "middle_rate": 5.0545
+    }
+  },
+  {
+    "currency_code": "CNY",
+    "unit": 1,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 0.58399999999999996,
+      "selling_rate": 0.58479999999999999,
+      "middle_rate": 0.58440000000000003
+    }
+  },
+  {
+    "currency_code": "EGP",
+    "unit": 1,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 0.073999999999999996,
+      "selling_rate": 0.074300000000000005,
+      "middle_rate": 0.074200000000000002
+    }
+  },
+  {
+    "currency_code": "EUR",
+    "unit": 1,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 4.6276999999999999,
+      "selling_rate": 4.6342999999999996,
+      "middle_rate": 4.6310000000000002
+    }
+  },
+  {
+    "currency_code": "GBP",
+    "unit": 1,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 5.3254000000000001,
+      "selling_rate": 5.3339999999999996,
+      "middle_rate": 5.3296999999999999
+    }
+  },
+  {
+    "currency_code": "HKD",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 51.481900000000003,
+      "selling_rate": 51.546399999999998,
+      "middle_rate": 51.514200000000002
+    }
+  },
+  {
+    "currency_code": "IDR",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 0.023699999999999999,
+      "selling_rate": 0.023800000000000002,
+      "middle_rate": 0.023800000000000002
+    }
+  },
+  {
+    "currency_code": "INR",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 4.2808999999999999,
+      "selling_rate": 4.2866999999999997,
+      "middle_rate": 4.2838000000000003
+    }
+  },
+  {
+    "currency_code": "KHR",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 0.099900000000000003,
+      "selling_rate": 0.1011,
+      "middle_rate": 0.10050000000000001
+    }
+  },
+  {
+    "currency_code": "KRW",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 0.2631,
+      "selling_rate": 0.26350000000000001,
+      "middle_rate": 0.26329999999999998
+    }
+  },
+  {
+    "currency_code": "MMK",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 0.19270000000000001,
+      "selling_rate": 0.193,
+      "middle_rate": 0.1928
+    }
+  },
+  {
+    "currency_code": "NPR",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 2.6591999999999998,
+      "selling_rate": 2.6625999999999999,
+      "middle_rate": 2.6608999999999998
+    }
+  },
+  {
+    "currency_code": "NZD",
+    "unit": 1,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 2.306,
+      "selling_rate": 2.3100999999999998,
+      "middle_rate": 2.3079999999999998
+    }
+  },
+  {
+    "currency_code": "PHP",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 6.6441999999999997,
+      "selling_rate": 6.6574,
+      "middle_rate": 6.6508000000000003
+    }
+  },
+  {
+    "currency_code": "PKR",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 1.4441999999999999,
+      "selling_rate": 1.448,
+      "middle_rate": 1.4460999999999999
+    }
+  },
+  {
+    "currency_code": "SAR",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 107.51690000000001,
+      "selling_rate": 107.66160000000001,
+      "middle_rate": 107.58920000000001
+    }
+  },
+  {
+    "currency_code": "SDR",
+    "unit": 1,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": null,
+      "selling_rate": null,
+      "middle_rate": 5.4821
+    }
+  },
+  {
+    "currency_code": "SGD",
+    "unit": 1,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 3.1238000000000001,
+      "selling_rate": 3.1295999999999999,
+      "middle_rate": 3.1267
+    }
+  },
+  {
+    "currency_code": "THB",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 12.255100000000001,
+      "selling_rate": 12.2759,
+      "middle_rate": 12.265499999999999
+    }
+  },
+  {
+    "currency_code": "TWD",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 12.5314,
+      "selling_rate": 12.5587,
+      "middle_rate": 12.5451
+    }
+  },
+  {
+    "currency_code": "USD",
+    "unit": 1,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 4.0350000000000001,
+      "selling_rate": 4.04,
+      "middle_rate": 4.0374999999999996
+    }
+  },
+  {
+    "currency_code": "VND",
+    "unit": 100,
+    "rate": {
+      "date": "2026-03-31",
+      "buying_rate": 0.015299999999999999,
+      "selling_rate": 0.015299999999999999,
+      "middle_rate": 0.015299999999999999
+    }
+  }
+]
